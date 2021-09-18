@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @krisk3
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning Django and Data Science
+- 🌱 I’m currently learning Django and Chatbot Development using Python.
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 Reach me on kris.kuruvilla@gmail.com
 
