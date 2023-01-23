@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krisk3
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Django and Chatbot Development using Python.
-- 💞️ I’m looking to collaborate on Web Development Projects
+- 👀 I’m a Python Developer. I am also well versed in C++ and JavaScript.
+- 🌱 I’m currently learning technologies like Docker and Web Scraping.
+- 💞️ I’m looking to collaborate on Backend Development Projects.
 - 📫 Reach me on kris.kuruvilla@gmail.com
 
 <!---
