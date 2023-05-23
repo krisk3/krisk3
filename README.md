@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @krisk3
-- 👨‍🎓 I'm a Python Developer who enjoys working on backends 
+- 👨‍🎓 I'm a Python Developer with a passion for backend development. 
 - 💞️ I’m happy to collaborate on Backend Development Projetcs
 - 🌱 I’m currently learning technologies like Docker and Web Scraping
 - 👀 I have a moderate understanding of C++ and JavaScript
