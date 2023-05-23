@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krisk3
-- 👨‍🎓 I'm a Python Developer who enjoys working on backends. 
-- 👀 I'm also well versed in C++ and JavaScript.
-- 🌱 I’m currently learning technologies like Docker and Web Scraping.
-- 💞️ I’m happy to collaborate on Backend Development and Chatbot Development Projetcs
+- 👨‍🎓 I'm a Python Developer who enjoys working on backends 
+- 💞️ I’m happy to collaborate on Backend Development Projetcs
+- 🌱 I’m currently learning technologies like Docker and Web Scraping
+- 👀 I have a moderate understanding of C++ and JavaScript
 - 📫 Reach me on kris.kuruvilla@gmail.com
 - 🌐 Check my portfolio website at https://geekydev.me
 <!---
