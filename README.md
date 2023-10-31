@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krisk3
 - 👨‍🎓 I'm a Python developer with a passion for backend development. 
 - 💞️ I’m happy to collaborate on backend development projetcs
-- 🌱 I’m currently learning Docker and Web Scraping
+- 🌱 I’m currently learning Docker and Golang
 - 👀 I have a moderate understanding of C++ and JavaScript
 - 📫 Reach me on kris.kuruvilla@gmail.com
 - 🌐 Check my portfolio website at https://geekydev.me
