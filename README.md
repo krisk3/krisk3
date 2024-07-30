@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krisk3
 - 👨‍🎓 I am a Python developer and specialize in backend development using Django. 
 - 💞️ I’m happy to collaborate on backend development projetcs
-- 🌱 I’m currently learning Docker and Golang
-- 👀 I have a moderate understanding of C++ and JavaScript
+- 🌱 I’m currently learning Golang
+- 👀 I have a good understanding of C++ and JavaScript
 - 📫 Reach me on kris.kuruvilla@gmail.com
 - 🌐 Check my portfolio website at https://krisk3.github.io/
 <!---
