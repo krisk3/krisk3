@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @krisk3
-- 👨‍🎓 I am a Python developer and specialize in backend development using Django. 
-- 💞️ I’m happy to collaborate on backend development projetcs
+- 👨‍🎓 I am a Software developer and specialize in backend development
+- 👀 I have a good understanding of Python, Django, Docker, Postgres & Rasa
 - 🌱 I’m currently learning Golang
-- 👀 I have a good understanding of C++ and JavaScript
+- 💞️ I’m happy to collaborate on backend development projetcs
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/kuriakose-kuruvila/)
 - 🌐 Check my portfolio website at https://krisk3.github.io/
 <!---
